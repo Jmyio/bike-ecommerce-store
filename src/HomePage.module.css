@@ -1,0 +1,33 @@
+
+.BrandsList {
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.BrandsList ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+  
+.BrandsList ul li {
+    padding: 15px 30px;
+}
+
+.BrandsList ul li a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #7f7f7f;
+}
+
+.BrandsList ul li a:hover {
+    background-image: linear-gradient(to right, #EC8164, #F14C63);
+    -webkit-background-clip: text; /* For Safari/Chrome */
+    background-clip: text;
+    color: transparent;
+}
+
+/*Swiper*/
+

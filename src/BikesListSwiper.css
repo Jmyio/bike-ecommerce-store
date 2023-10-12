@@ -1,0 +1,32 @@
+.bikeListSwiper {
+    margin-top: -15px;
+    height: 100%;
+}
+  
+.bikeListContainer {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative; 
+    transition: transform 0.5s;
+    margin: 10px;
+}
+
+.bikeListContainer:hover {
+    transform: scale(1.08);
+}
+  
+.bikeListContainer img {
+    position: absolute;
+    top: 25px;
+    width: 320px;
+}
+
+.bikeListContainer p {
+    text-align: center;
+    position: absolute;
+    bottom: 30px;
+}
+

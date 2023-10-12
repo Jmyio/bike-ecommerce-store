@@ -1,0 +1,372 @@
+{
+    "bikes" : [
+        {
+            "brand" : "Orbea",
+            "brand-img" : "Logo-orbea-bikes.png",
+            "background-img" : "orca.png",
+            "S-BG-img1" : "Orbea/main-menu-orca-24.jpg",
+            "S-BG-img2" : "Orbea/orca-aero.jpg",
+            "description1" : "Orca isn't just light. It is 6.7kg of climbing technology designed to change how you reach the top. The feeling of a bike this light and efficient is unbeatable, and this instant acceleration, vibration absorption and responsive handling come from a frame which knows where it needs to be light and where it needs to be stiff. Welcome the ultimate climbing machine!",
+            "description2" : "Historically, considering only the three design factors of aerodynamics, stiffness and weight rarely yeilds dramatic improvement. Big gains in one area always compromise one or both of the others. The key to building the best aero road bike is finding the balance of these targets, and identifying additional performance factors that allow the rider to increase efficiency.",
+            "models" : [
+                {
+                    "id" : 0,
+                    "models-type" : "ORCA",
+                    "name" : "ORCA M10ILTD 2023",
+                    "img" : "N122TTCC-BS-SIDE-ORCA_M10iLTD_PWR_1.jpg"
+                },
+
+                {
+                    "id" : 1,
+                    "models-type" : "ORCA",
+                    "name" : "ORCA M11ELTD 2023",
+                    "img" : "N123TTCC-BR-SIDE-ORCA_M11eLTD_PWR_1.jpg"
+                },
+
+                {
+                    "id" : 2,
+                    "models-type" : "ORCA",
+                    "name" : "ORCA M20ILID 2023",
+                    "img" : "N120TTCC-TK-SIDE-ORCA_M20iLTD_1.jpg"
+                },
+
+                {
+                    "id": 3,
+                    "models-type": "ORCA",
+                    "name": "ORCA M31ELTD 2023",
+                    "img": "N119TTCC-TY-SIDE-ORCA_M31eLTD_1.jpg"
+                },
+
+                {
+                    "id": 4,
+                    "models-type": "ORCA",
+                    "name": "ORCA M20ITEAM 2023",
+                    "img": "N114TTCC-AG-SIDE-ORCA_M20iTEAM_1.jpg"
+                },
+
+                {
+                    "id": 5,
+                    "models-type": "ORCA AERO",
+                    "name": "ORCA AREO M10ILTD 2023",
+                    "img": "N130TTCC-D6-SIDE-ORCA_AERO_M10iLTD_1.jpg"
+                },
+
+                {
+                    "id": 6,
+                    "models-type": "ORCA AERO",
+                    "name": "ORCA AREO M11ELTD 2023",
+                    "img": "N131TTCC-D5-SIDE-ORCA_AERO_M11eLTD_1.jpg"
+                },
+
+                {
+                    "id": 7,
+                    "models-type": "ORCA AERO",
+                    "name": "ORCA AREO M20ILID 2023",
+                    "img": "N128TTCC-T2-SIDE-ORCA_AERO_M20iLTD_1.jpg"
+                },
+
+                {
+                    "id": 8,
+                    "models-type": "ORCA AERO",
+                    "name": "ORCA AREO M31ELTD 2023",
+                    "img": "N127TTCC-TU-SIDE-ORCA_AERO_M31eLTD_PWR_1.jpg"
+                },
+
+                {
+                    "id": 9,
+                    "models-type": "ORCA AERO",
+                    "name": "ORCA AREO M20TEAM 2023",
+                    "img": "M133TTCC-D7-SIDE-ORCA_AERO_M20LTD.jpg"
+                }
+            ]
+        },
+
+        {
+            "brand": "Specialized",
+            "brand-img": "Asset_1_5x_410x.png",
+            "background-img" : "plp-banner_Bikes_1800x.progressive.webp",
+            "S-BG-img1" : "Specialized/tarmac.jpg",
+            "S-BG-img2" : "Specialized/aethos.jpg",
+            "description1" : "The Tarmac SL7 puts an end to compromise. Climb on the lightest bike the rules allow, sprint on the fastest – all with legendary Tarmac handling. It’s like we combined Julian Alaphilppe’s attacking, climbing style, and Peter Sagan’s aggressive power in a single rider with no weaknesses. The only choice you need to make is when to attack",
+            "description2" : "What if we used every ounce of experience we've gained serving riders over the past 46 years and built a bike made simply for the love of riding? For those moments when human and machine become one, when we lose ourselves dancing up a climb or carving through a turn. Well, we did it, and in doing so, Aethos broke every design, ride, and race rule along the way.",
+            "models": [
+                {
+                    "id": 0,
+                    "models-type": "S-WORK TARMAC",
+                    "name": "S-Works Tarmac SL7-Dura-Ace Di2",
+                    "img": "90622-01_TARMAC-SL7-SW-DI2-REDTNT-METWHTSIL-BLK_HERO_600x.webp"
+                },
+                {
+                    "id": 1,
+                    "models-type": "S-WORK TARMAC",
+                    "name": "Tarmac SL7 Expert",
+                    "img": "90622-33_TARMAC-SL7-EXPERT-CARB-OIL-FSTGRN_HERO_600x.webp"
+                },
+                {
+                    "id": 2,
+                    "models-type": "S-WORK TARMAC",
+                    "name": "S-Works Tarmac SL7-Dura-Ace Di2",
+                    "img": "90623-00_TARMAC-SL7-SW-DI2-BLKPRL-GRNT-CHRM_HERO_600x.webp"
+                },
+                {
+                    "id": 3,
+                    "models-type": "S-WORK TARMAC",
+                    "name": "Tarmac SL7 Expert",
+                    "img": "90623-31_TARMAC-SL7-EXPERT-MORNMST-WHT_HERO_600x.webp"
+                },
+                {
+                    "id": 4,
+                    "models-type": "S-WORK TARMAC",
+                    "name": "Tarmac SL7 Comp - Shimano 105 Di2",
+                    "img": "90623-57_TARMAC-SL7-COMP-DUNEWHT-METOBSD_HERO_600x.webp"
+                },
+                {
+                    "id": 5,
+                    "models-type": "S-WORK Aethos",
+                    "name": "S-Works Aethos - Dura-Ace Di2",
+                    "img": "97222-00_AETHOS-SW-DI2-CARB-CMLNEYRS-CHRM_HERO_600x.webp"
+                },
+                {
+                    "id": 6,
+                    "models-type": "S-WORK Aethos",
+                    "name": "S-Works Aethos - SRAM Red ETap AXS",
+                    "img": "97222-02_AETHOS-SW-ETAP-CARB-CMLNEYRS-CHRM_HERO_600x.webp"
+                },
+                {
+                    "id": 7,
+                    "models-type": "S-WORK Aethos",
+                    "name": "Aethos Expert",
+                    "img": "97222-30_AETHOS-EXPERT-OIL-FLKSIL_HERO1_600x.webp"
+                },
+                {
+                    "id": 8,
+                    "models-type": "S-WORK Aethos",
+                    "name": "Aethos Comp - Shimano 105 Di2",
+                    "img": "97223-00_AETHOS-SW-DI2-BRCH-ABLN-DUNEWHT_HERO_600x.webp"
+                },
+                {
+                    "id": 9,
+                    "models-type": "S-WORK Aethos",
+                    "name": "S-Works Aethos - SRAM Red ETap AXS",
+                    "img": "97223-02_AETHOS-SW-ETAP-OBSD-ABLN-OBSD_HERO_600x.webp"
+                }
+            ]
+        },
+
+        {
+            "brand": "BMC",
+            "brand-img": "BMC_Logo_2021.png",
+            "background-img" : "categoryheader-bmc-road-bike-teammachine-slr_Kopie_1.jpg",
+            "S-BG-img1" : "BMC/teammachine.jpg",
+            "S-BG-img2" : "BMC/timemachine.jpg",
+            "description1" : "The original Teammachine SLR01 created the blueprint for the modern road bike. After more than a decade of obsessive innovation and development, today’s world-beating Teammachine SLR01 still leads where others follow. Its TCC Race-engineered Premium Carbon frame includes the Aerocore Design system, ICS technology and Stealth Cable Routing. The TEAM model is equipped with an ICS Carbon one-piece cockpit, Campagnolo’s Super Record EPS 12-speed groupset, and the latest Bora Ultra Disc WTO 33mm wheelset.",
+            "description2" : "Take the aerodynamics of our fastest time trial bikes and mix it with the all-day comfort and climbing ability of our best road bikes, and you get the Timemachine 01 ROAD. Engineered with TCC Speed inside its Premium Carbon frame and fork, this aero triathlon bike has all the details for speed including an Aero Module, a front brake Aero Cover, an ICS Aero bar and stem, an Aero seatpost and Stealth Cable Routing. The Timemachine Road 01 ONE has Shimano’s Dura-Ace Di2 12-speed groupset and 62mm DT Swiss ARC 1100 wheelset.",
+            "models": [
+                {
+                    "id": 0,
+                    "models-type": "TEAMMACHINE ROAD",
+                    "name": "Teammachine SLR01 TWO",
+                    "img": "bmc-23-10608-034-teammachine-slr-01-two-carbon-white-1_1.jpg"
+                },
+                {
+                    "id": 1,
+                    "models-type": "TEAMMACHINE ROAD",
+                    "name": "Teammachine SLR01 ONE",
+                    "img": "bmc-23-10608-032-teammachine-slr-01-one-all-red-black-1_1.jpg"
+                },
+                {
+                    "id": 2,
+                    "models-type": "TEAMMACHINE ROAD",
+                    "name": "Teammachine SLR01 LTD",
+                    "img": "bmc-23-10608-017-teammachine-slr-01-ltd-team-white-neon-red-1.png"
+                },
+                {
+                    "id": 3,
+                    "models-type": "TEAMMACHINE ROAD",
+                    "name": "Teammachine ALR TWO",
+                    "img": "bmc-23-10602-004-teammachine-alr-two-metallic-silver-black-1.jpg"
+                },
+                {
+                    "id": 4,
+                    "models-type": "TEAMMACHINE ROAD",
+                    "name": "Teammachine ALR ONE",
+                    "img": "bmc-23-10602-003-teammachine-alr-one-black-white-1_1.jpg"
+                },
+                {
+                    "id": 5,
+                    "models-type": "TIMEMACHINE ROAD",
+                    "name": "Timemachine Road 01 TWO",
+                    "img": "bmc-23-10616-008-timemachine-01-road-two-white-black-1_6.jpg"
+                },
+                {
+                    "id": 6,
+                    "models-type": "TIMEMACHINE ROAD",
+                    "name": "Timemachine Road 01 THREE",
+                    "img": "bmc-23-10616-007-timemachine-01-road-three-iron-grey-black-1_1.jpg"
+                },
+                {
+                    "id": 7,
+                    "models-type": "TIMEMACHINE ROAD",
+                    "name": "Timemachine Road 01 ONE",
+                    "img": "bmc-23-10616-006-timemachine-01-road-one-carbon-white-1_7.jpg"
+                },
+                {
+                    "id": 8,
+                    "models-type": "TIMEMACHINE ROAD",
+                    "name": "Timemachine Road 01 TWO",
+                    "img": "bmc-22-10616-006-bmc-timemachine-road-01-two-road-bike-anthracite-01.png"
+                },
+                {
+                    "id": 9,
+                    "models-type": "TIMEMACHINE ROAD",
+                    "name": "Timemachine Road 01 ONE",
+                    "img": "bmc-22-10616-005-bmc-timemachine-road-01-one-road-bike-purple-01.png"
+                }
+            ]
+        },
+
+        {
+            "brand": "Giant",
+            "brand-img": "Giant-Logo-2022.png",
+            "background-img" : "road_category_race (1).jpg",
+            "S-BG-img1" : "Giant/propel.jpg",
+            "S-BG-img2" : "Giant/TCR.jpg",
+            "description1" : "The first thing to understand about the all-new Propel range is that it’s built to win races. Big races. There’s a reason why this aero road machine made its public debut at the 2022 Tour de France. This is a bike that has been engineered to give pros like Dylan Groenewegen and Michael Matthews of Team BikeExchange-Jayco a competitive advantage when it matters most.After years of engineering and development, followed by additional testing at smaller races earlier this year, Groenewegen introduced the new Propel Advanced SL to the world with one of the biggest wins of his career at Stage 3 of the Tour.",
+            "description2" : "The all-new TCR range is the result of a team effort involving Giant engineers and product developers, leading aerodynamics experts, and some of today’s top professional racers. Ever since it made its debut more than 20 years ago as a controversial race bike with compact geometry and a radical new look compared to all other race bikes of that era, the TCR has continually pushed the limits of performance. It has been a staple in the pro peloton since 1998, earning wins at major races around the world for more than two decades.",
+            "models": [
+                {
+                    "id": 0,
+                    "models-type": "GIANT PROPEL",
+                    "name": "Propel Advanced SL0",
+                    "img": "MY23PropelAdvancedSL0_ColorAStardust.jpg"
+                },
+                {
+                    "id": 1,
+                    "models-type": "GIANT PROPEL",
+                    "name": "Propel Advanced Pro0-Di2",
+                    "img": "MY23PropelAdvancedPro0-Di2_ColorABlackCurrant_W.jpg"
+                },
+                {
+                    "id": 2,
+                    "models-type": "GIANT PROPEL",
+                    "name": "PROPEL ADSL ULTEGRA Di2",
+                    "img": "MY23_PROPEL-ADSL-ULTEGRA-Di2.jpg"
+                },
+                {
+                    "id": 3,
+                    "models-type": "GIANT PROPEL",
+                    "name": "Propel Advanced SL1",
+                    "img": "MY23PropelAdvancedSL1_ColorAAirglow_W.jpg"
+                },
+                {
+                    "id": 4,
+                    "models-type": "GIANT PROPEL",
+                    "name": "Propel Advanced 1",
+                    "img": "MY23PropelAdvanced1_ColorAOrionNebula.jpg"
+                },
+                {
+                    "id": 5,
+                    "models-type": "GIANT TCR",
+                    "name": "TCR Advanced Pro0 Disc-KOM Di2",
+                    "img": "MY23TCRAdvancedPro0Disc-KOMDi2ColorA_ColdNight.jpg"
+                },
+                {
+                    "id": 6,
+                    "models-type": "GIANT TCR",
+                    "name": "TCR Advanced Pro1 Disc-KOM",
+                    "img": "MY22TCRAdvancedPro1Disc-KOM_ColorABlackDiamond.jpg"
+                },
+                {
+                    "id": 7,
+                    "models-type": "GIANT TCR",
+                    "name": "TCR Advanced SL Disc-Ui2",
+                    "img": "TCRAdvancedSLDisc-Ui2-波賽頓-官網用.jpg"
+                },
+                {
+                    "id": 8,
+                    "models-type": "GIANT TCR",
+                    "name": "TCR Advanced SL0 Disc",
+                    "img": "MY23TCRAdvancedSL0Disc_ColorARawCarbon.jpg"
+                },
+                {
+                    "id": 9,
+                    "models-type": "GIANT TCR",
+                    "name": "TCR Advanced SL2-KOM",
+                    "img": "MY22TCRAdvancedSL2-KOM_ColorAGrenadine.jpg"
+                }
+            ]
+        },
+
+        {
+            "brand": "Canyon",
+            "brand-img": "Canyon_Bicycles-Logo.wine.png",
+            "background-img" : "World-canyon-road-my23-01.webp",
+            "S-BG-img1" : "Canyon/aeroad.jpg",
+            "S-BG-img2" : "Canyon/Ultimate.jpg",
+            "description1" : "World Championship titles. Monuments. Grand Tour victories.For decades, the Ultimate has set the standard for road race bikes, winning race after race at the highest levels of the sport. Now, the latest generation has stepped it up again by achieving a new level of all-round performance. The finest materials. The cutting edge technology. Designed by the best engineers in the business. The bike of the pros.",
+            "description2" : "King of Flanders. Developed using supercomputers. A serial World Tour race winner in the hands of generational talent Mathieu van der Poel. The Aeroad delivers unrivalled performance in the toughest conditions. Our lightest aero bikes. Fully integrated cockpits. Incredible adjustability. World Tour level components. The choice of MVDP. In short: the fastest road bike out there.",
+            "models": [
+                {
+                    "id": 0,
+                    "models-type": "CANYON AEROAD",
+                    "name": "Aeroad CF SLX 8 Force AXS",
+                    "img": "full_2023_3784_aeroad-cf-slx-8-etap_P09_P5.png"
+                },
+                {
+                    "id": 1,
+                    "models-type": "CANYON AEROAD",
+                    "name": "Aeroad CF SLX 8 Di2",
+                    "img": "full_2023_3955_aeroad-cf-slx-8-disc-di2_P01_P5.png"
+                },
+                {
+                    "id": 2,
+                    "models-type": "CANYON AEROAD",
+                    "name": "Aeroad CF SLX 7 eTap",
+                    "img": "full_2023_3956_aeroad-cf-slx-7-disc-etap_P07_P5.png"
+                },
+                {
+                    "id": 3,
+                    "models-type": "CANYON AEROAD",
+                    "name": "Aeroad CFR eTap",
+                    "img": "full_2023_3950_aeroad-cfr-etap_P10_P5.png"
+                },
+                {
+                    "id": 4,
+                    "models-type": "CANYON AEROAD",
+                    "name": "Aeroad CF SLX 8 eTap",
+                    "img": "full_2023_3954_aeroad-cf-slx-8-disc-etap_P09_P5.png"
+                },
+                {
+                    "id": 5,
+                    "models-type": "CANYON ULTIMATE",
+                    "name": "Ultimate CFR Di2",
+                    "img": "full_2023_ultimate-cfr-di2_3325_P02_P5.png"
+                },
+                {
+                    "id": 6,
+                    "models-type": "CANYON ULTIMATE",
+                    "name": "Ultimate CFR eTap",
+                    "img": "full_2023_ultimate-cfr-etap_3324_P01_P5.png"
+                },
+                {
+                    "id": 7,
+                    "models-type": "CANYON ULTIMATE",
+                    "name": "Ultimate CF SL 7",
+                    "img": "full_2023_ultimate-cf-sl-7_3315_P02_P5.png"
+                },
+                {
+                    "id": 8,
+                    "models-type": "CANYON ULTIMATE",
+                    "name": "Ultimate CF SLX 8 eTap",
+                    "img": "full_2023_ultimate-cf-slx-8-etap_3321_P02_P5.png"
+                },
+                {
+                    "id": 9,
+                    "models-type": "CANYON ULTIMATE",
+                    "name": "Ultimate CF SLX 8 Di2",
+                    "img": "full_2023_ultimate-cf-slx-8-di2_3320_P02_P5.png"
+                }
+            ]
+        }
+    ]
+}

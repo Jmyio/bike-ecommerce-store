@@ -1,0 +1,133 @@
+.brandImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.brandImg img {
+    height: 50px;
+}
+
+.backgroundImgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backgroundImg {
+    width: 95%;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+    transition: transform 0.8s;
+}
+
+.backgroundImg:hover {
+    transform: scale(1.02);
+}
+
+.backgroundImg img {
+    width: 100%;
+}
+
+/**/
+
+.bikesListBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.blockOne {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 95%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.blockTwo {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 95%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.blockTitle {
+    font-style: italic;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-weight: 900;
+    background-image: url(/public/img/BikeLists-small-Background/Marble-_-High-Resolution-Texture-Images.jpg);
+    -webkit-background-clip: text; /* For Safari/Chrome */
+    background-clip: text;
+    color: transparent;
+    font-size: 35px;
+    transition: background-color 0.5s;
+    cursor: pointer;
+}
+
+.blockTitle:hover {
+    background-image: linear-gradient(to right, #EC8164, #F14C63);
+    -webkit-background-clip: text; /* For Safari/Chrome */
+    background-clip: text;
+    color: transparent;
+}
+
+.sbg {
+    flex-basis: 25%;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    transition: transform 0.8s;
+    cursor: pointer;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+.sbg img {
+    width: 100%;
+}
+
+.sbg:hover {
+    transform: scale(1.02);
+}
+
+.bikesList {
+    flex-basis: 73%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+
+.modelDesc {
+    margin-top: 20px;
+    height: 100%;
+    width: 70%;
+    font-size: 18px;
+    line-height: 35px;
+    text-align: justify;
+    font-weight: 700;
+    font-style: italic;
+    padding-left: 30px;
+}
+

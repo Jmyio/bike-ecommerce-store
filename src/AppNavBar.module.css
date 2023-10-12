@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    color: black;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.NavBar {
+    font-style: italic;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+.NavBar img {
+    width: 60px;
+}
+
+.container {
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.NavBarIcon {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+.IconName {
+    font-size: 18px;
+    color: #23272a;
+}
+
+.NavBarOptions ul {
+    display: flex;
+    align-items: center;
+}
+
+.NavBarOptions ul li {
+    margin-left: 30px;
+    margin-right: 30px;
+    list-style: none;
+    font-size: 18px;
+}
